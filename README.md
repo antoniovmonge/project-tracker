@@ -1,10 +1,19 @@
-# Data analysis
-- Document here the project: project-tracker
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# Flask Web Application // project-tracker
+## Keep track of our projects and tasks associated with those pojects.
+---
+Description:
+- **Homepage:** display all the projects and button to add a project; each project is linked to an individual project page
+- **Individual project page:** displays tasks associated with that project and there is a button to add a task
+---
+### Tools and Technologies
+- **Database:** Postgress
+- **Database connection:** SQLAlchemy
+- **Web framework:** Flask
+- **Webpages:** CSS and HTML (To be implemented) 
+---
 
-Please document the project the better you can.
+### Goal of the project:
+Using and manipulating Databases with Python.
 
 # Startup the project
 
